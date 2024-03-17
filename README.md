@@ -33,3 +33,4 @@
 - At this time, I barely knew much about machine learning. So all I could do was do simple tasks such as preprocessing, making presentation deck, and implementing simple code. But I did my best and worked hard, and I studied by myself to understand techniques like K-means. I learned a lot from this project and I believe that my growth was probably the largest among my team members.
 
 
+끝.
